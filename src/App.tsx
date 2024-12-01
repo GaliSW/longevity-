@@ -45,7 +45,7 @@ function App() {
             /ri:. ...:..:.:::.::ii7/ (noun) <br />a Merging Crypto and Longevity
             Innovation b The Enigmatic Utopia of Longevity
           </h2>
-          <div className="px-4 flex justify-center text-white gap-4 xl:flex-row flex-col items-center xl:gap-16 xl:items-stretch mb-8 lg:mb-24">
+          <div className="px-4 flex justify-center text-white gap-4 xl:flex-row flex-col items-center xl:gap-16 xl:items-stretch mb-8 lg:mb-40">
             <div className="border-2 border-transparent rounded-xl p-6 w-full md:w-[600px] flex flex-col gap-8 bg-white/20 backdrop-blur-sm relative border-[#C7C7C7] md:hover:[filter:drop-shadow(4px_4px_8px_#ffffff)] transition-all duration-300">
               <h2 className="text-lg md:text-xl lg:text-2xl">
                 What is $longevity?{" "}
@@ -69,7 +69,7 @@ function App() {
               <a
                 href="https://x.com/longevitybnb?s=21"
                 target="_blank"
-                className="flex items-center gap-4 text-white text-xl px-4 py-2 md:text-2xl lg:text-4xl hover:bg-[#454545] rounded-xl transition-all duration-300"
+                className="flex items-center gap-4 text-white text-xl px-4 py-2 md:text-2xl hover:bg-[#454545] rounded-xl transition-all duration-300"
               >
                 <img
                   src={twitter}
@@ -81,7 +81,7 @@ function App() {
               <a
                 href="https://dexscreener.com/bsc/0x7a448a2df03187382ffCa47D216805c02e033AeF"
                 target="_blank"
-                className="flex items-center gap-4 text-white text-xl px-4 py-2 md:text-2xl lg:text-4xl hover:bg-[#454545] rounded-xl transition-all duration-300"
+                className="flex items-center gap-4 text-white text-xl px-4 py-2 md:text-2xl hover:bg-[#454545] rounded-xl transition-all duration-300"
               >
                 <img
                   src={dexs}
@@ -93,7 +93,7 @@ function App() {
               <a
                 href="https://t.me/longevityBNB/1"
                 target="_blank"
-                className="flex items-center gap-4 text-white text-xl px-4 py-2 md:text-2xl lg:text-4xl hover:bg-[#454545] rounded-xl transition-all duration-300"
+                className="flex items-center gap-4 text-white text-xl px-4 py-2 md:text-2xl  hover:bg-[#454545] rounded-xl transition-all duration-300"
               >
                 <img
                   src={telegram}
