@@ -55,7 +55,7 @@ function App() {
                 organization focused on health and longevity.
               </p>
             </div>
-            <div className="border-2 border-transparent rounded-xl p-6 w-full md:w-[600px]  flex flex-col gap-8 bg-white/20 backdrop-blur-sm relative border-[#C7C7C7] hover:[filter:drop-shadow(4px_4px_8px_#ffffff)] transition-all duration-300">
+            <div className="border-2 border-transparent rounded-xl p-6 w-full md:w-[600px]  flex flex-col gap-8 bg-white/20 backdrop-blur-sm relative border-[#C7C7C7] md:hover:[filter:drop-shadow(4px_4px_8px_#ffffff)] transition-all duration-300">
               <h2 className="text-lg md:text-2xl lg:text-2xl">Our Goal</h2>
               <p className="text-sm md:text-base lg:text-xl">
                 It leverages blockchain technology to create a unique digital
